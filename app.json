@@ -1,0 +1,12 @@
+{
+  "name": "KeepCallingApp",
+  "displayName": "KeepCallingApp",
+  "expo": {
+    "name": "KeepCallingApp",
+    "slug": "KeepCallingApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
